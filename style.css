@@ -61,12 +61,14 @@ body {
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
+  text-align: center;
 }
 
 .hero-image p {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
+  text-align: center;
 }
 
 .intro {
